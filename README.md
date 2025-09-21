@@ -1,5 +1,3 @@
-Sure! Here's your `README.md` file content:
-
 # Google Form Automation Script
 
 ## Description
